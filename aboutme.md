@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Jomkit "James" Jujaroen, Problem-Solver, Global Innovator
+subtitle: 'Jomkit "James" Jujaroen, Problem-Solver, Global Innovator'
 ---
 
 Thanks for visiting my website! My name is Jomkit, but everyone calls me James. I was born in Thailand but moved to the United States when I was a baby. I believe every problem has many solutions, so it's best to find the solution in your style.
