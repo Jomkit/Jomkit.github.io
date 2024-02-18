@@ -124,7 +124,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "Greenhorn, greenhorn, beginner programming, programming blog, programming blogs, coding blog, coding blogs, programming, coding, beginner programmer, beginner blog"
 
 ######################################
 # --- Colours / background image --- #
@@ -132,17 +132,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#66ffcc"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-col: "#999999"
+footer-text-col: "#ffffff"
+footer-link-col: "#f2f2f2"
+footer-hover-col: "#b3ffe6"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
